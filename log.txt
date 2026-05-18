@@ -1,0 +1,40 @@
+
+
+
+Bank [code=BCR Bank, clients=[]]
+
+	Client [name=Ionescu Ion, address=Timisoara, accounts=[[BASIC] Account EUR: code=EUR124, amount=200.9, [SILVER] Account RON: code=RON1234, amount=400.0], email=ionescu.ion@gmail.com, birthday=null]
+
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=100.0], email=null, birthday=null]
+Bank [code=BCR Bank, clients=[
+	Client [name=Ionescu Ion, address=Timisoara, accounts=[[BASIC] Account EUR: code=EUR124, amount=200.9, [SILVER] Account RON: code=RON1234, amount=400.0], email=ionescu.ion@gmail.com, birthday=null], 
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=100.0], email=null, birthday=null]]]
+Bank [code=CEC Bank, clients=[
+	Client [name=Vasilescu Vasile, address=Brasov, accounts=[[BASIC] Account EUR: code=EUR128, amount=700.0], email=null, birthday=null]]]
+
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=500.0], email=null, birthday=null]
+
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=433.0], email=null, birthday=null]
+Bank [code=BCR Bank, clients=[
+	Client [name=Ionescu Ion, address=Timisoara, accounts=[[BASIC] Account EUR: code=EUR124, amount=200.9, [SILVER] Account RON: code=RON1234, amount=360.0], email=ionescu.ion@gmail.com, birthday=null], 
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=473.0], email=null, birthday=null]]]
+
+
+
+Bank [code=BCR Bank, clients=[]]
+
+	Client [name=Ionescu Ion, address=Timisoara, accounts=[[BASIC] Account EUR: code=EUR124, amount=200.0, [SILVER] Account RON: code=RON1234, amount=400.0], email=ionescu.ion@gmail.com, birthday=null]
+
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=100.0], email=null, birthday=null]
+Bank [code=BCR Bank, clients=[
+	Client [name=Ionescu Ion, address=Timisoara, accounts=[[BASIC] Account EUR: code=EUR124, amount=200.0, [SILVER] Account RON: code=RON1234, amount=400.0], email=ionescu.ion@gmail.com, birthday=null], 
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=100.0], email=null, birthday=null]]]
+Bank [code=CEC Bank, clients=[
+	Client [name=Vasilescu Vasile, address=Brasov, accounts=[[BASIC] Account EUR: code=EUR128, amount=700.0], email=null, birthday=null]]]
+
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=500.0], email=null, birthday=null]
+
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=433.0], email=null, birthday=null]
+Bank [code=BCR Bank, clients=[
+	Client [name=Ionescu Ion, address=Timisoara, accounts=[[BASIC] Account EUR: code=EUR124, amount=200.0, [SILVER] Account RON: code=RON1234, amount=360.0], email=ionescu.ion@gmail.com, birthday=null], 
+	Client [name=Marinescu Marin, address=Timisoara, accounts=[[BASIC] Account RON: code=RON126, amount=473.0], email=null, birthday=null]]]
